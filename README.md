@@ -1,3 +1,3 @@
-# 0x020
+# .github
 
-Community health files.
+*Community health files for the @0x020 organization*
