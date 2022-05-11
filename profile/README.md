@@ -2,4 +2,4 @@
 
 Hello 👋.
 
-This organization has potentially useful hacking related scripts.
+This organization has possibly useful hacking related scripts.
